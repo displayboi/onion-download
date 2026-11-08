@@ -23,7 +23,7 @@ Está pensado para casos en los que gestores de descargas como JDownloader no lo
 ## Instalación
 
 ```bash
-git clone https://github.com/TU_USUARIO/onion-download.git
+git clone https://github.com/displayboi/onion-download.git
 cd onion-download
 pip install "requests[socks]"
 ```
